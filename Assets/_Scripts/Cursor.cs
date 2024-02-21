@@ -17,7 +17,7 @@ public class Cursor : SingletonMonoBehavior<Cursor>
     }
 
     /// <summary>
-    /// Get the curor's current normalised position on the canvas
+    /// Get the cursor's current normalised position on the canvas
     /// </summary>
     /// <returns>Vector2 normalised position on canvas</returns>
     public Vector2 GetNormalisedPosition()
